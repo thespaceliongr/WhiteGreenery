@@ -32,6 +32,6 @@ You can fork and contribute to WhiteGreenery by visiting [our public repo on Git
     @Author Stavros Vourliotis.
 
 
-Download use edit create WhiteGreenery WordPress theme. I hope to enjoy !!!!!!
+Download use edit create WhiteGreenery WordPress theme. I hope to enjoy it !!!!!!
 
 Stavros Vourliotis The Space Lion Gr Net
